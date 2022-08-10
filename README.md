@@ -4,3 +4,4 @@
 -line 3
 -line 4
 -line 5 feature-1
+-line 6 feature-1
